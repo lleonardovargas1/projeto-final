@@ -1,0 +1,37 @@
+
+
+.titulo{
+font-size: 45px;
+font-family:Verdana, Geneva, Tahoma, sans-serif; 
+color:black;
+margin-top: 50px; 
+text-align: center;
+}
+.Davi{
+    margin-left: -150px;
+}
+.gga{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration-line: none;
+    font-size:33px;
+    color:red;
+    background-color: black;
+    height: 50px;
+    width: 140px;
+    text-align: center;
+    margin-left: 600px;
+    display: block;
+   }
+.ggb{
+    margin-top: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration-line: none;
+    font-size:33px;
+    color:red;
+    background-color: black;
+    height: 50px;
+    width: 140px;
+    text-align: center;
+    margin-left: 600px;
+    display: block;  
+}   
